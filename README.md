@@ -9,7 +9,7 @@
 
  🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Full Stack Web Development(MERN/MEAN)🕸️ and working on my Data Structures and Algorithms 🤓.
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/Shivanathsai/Shivanathsai/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
